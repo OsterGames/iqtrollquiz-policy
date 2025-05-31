@@ -1,31 +1,31 @@
-# Политика конфиденциальности
+# Privacy Policy
 
-Это приложение ("мы", "нас", "наше") уважает конфиденциальность пользователей.
+This application ("we", "us", "our") respects your privacy.
 
-## Сбор данных
+## Data Collection
 
-Приложение может собирать анонимную информацию с помощью сторонних сервисов, таких как:
+The app may collect anonymous information through third-party services such as:
 
-- Google AdMob (для показа рекламы)
-- Firebase (для аналитики, если подключено)
+- Google AdMob (for displaying ads)
+- Firebase (for analytics, if integrated)
 
-Мы не собираем персональные данные (имя, email и т.п.) напрямую.
+We do not collect any personal data (such as name, email, etc.) directly.
 
-## Использование данных
+## Use of Data
 
-Собранная информация используется для:
+The collected information is used for:
 
-- показа рекламы;
-- улучшения функциональности и стабильности приложения;
-- анализа взаимодействия пользователей.
+- displaying advertisements;
+- improving functionality and stability of the app;
+- analyzing user interactions.
 
-## Сторонние сервисы
+## Third-party Services
 
-Приложение может использовать сторонние библиотеки и SDK. Ниже ссылки на их политики конфиденциальности:
+The app may use third-party libraries and SDKs. Below are links to their privacy policies:
 
 - [Google AdMob](https://policies.google.com/privacy)
 - [Google Firebase](https://firebase.google.com/support/privacy)
 
-## Контакты
+## Contact
 
-Если у вас есть вопросы, напишите на email: **ostergamescom@gmail.com**
+If you have any questions, feel free to contact us at: **ostergamescom@gmail.com**
